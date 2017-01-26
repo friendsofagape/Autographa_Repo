@@ -6,3 +6,5 @@ Unlocked Literal Bible
 Unfolding Word
 #License
 CCSA
+#Year
+2016
