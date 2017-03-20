@@ -1,23 +1,11 @@
 {
     "languages_available": [
         "English",
-        "Bilaspuri",
-        "Bhadrawahi",
-        "Chambeali",
-        "Dogri",
-        "Gaddi",
         "Hindi",
-<<<<<<< HEAD
-        "Kulvi",
-        "Kulvi Outer Seraji",
-        "Kangri",
-        "Kannada",
-        "Punjabi"
-
-
-=======
+        "Baghlayani",
         "Kannada"
->>>>>>> b46d0ea4cd3a6923e3427a1ff3bc51b919cdd7a0
+
+
     ]
 
 }
