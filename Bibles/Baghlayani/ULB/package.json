@@ -1,11 +1,11 @@
 {
   "meta_data": {
-    "languageName": "Hindi",
-    "languageCode": "HIN",
+    "languageName": "Baghlayani",
+    "languageCode": "BGH",
     "versionCode": "ULB",
     "versionName": "Unlocked Literal Bible",
-    "source": "Unfolding Word",
+    "source": "https://github.com/FreeBiblesIndia",
     "license": "CCSA",
-    "year": 2016
+    "year": 2017
   }
 }
