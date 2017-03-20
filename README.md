@@ -4,7 +4,7 @@ Free Bibles translated under the free bible movement  with unrestricted distribu
 
 No copyrighted Bibles must be posted !
 
-Please follow the package.JSON structure in the sub folders
+Please follow the package.JSON structure in the sub folders . See the Templates folder for sample package.JSON files 
 
 https://github.com/friendsofagape/Autographa_Repo/tree/master/Bibles
 
