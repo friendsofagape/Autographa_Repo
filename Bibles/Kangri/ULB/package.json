@@ -1,10 +1,10 @@
 {
   "meta_data": {
-    "languageName": "XXX",
-    "languageCode": "XXX",
+    "languageName": "Kangri",
+    "languageCode": "XNR",
     "versionCode": "ULB",
     "versionName": "Unlocked Literal Bible",
-    "source": "XXX",
+    "source": "https://github.com/FreeBiblesIndia",
     "license": "CCSA",
     "year": 2016
   }
