@@ -1,4 +1,4 @@
-#AUTOGRAPHA BIBLE REPO
+# AUTOGRAPHA BIBLE REPO
 
 Free Bibles translated under the free bible movement  with unrestricted distribution rights .. preferrably Creative Commons Share Alike 4.0 CCSA
 
