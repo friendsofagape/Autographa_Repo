@@ -2,7 +2,14 @@
     "languages_available": [
         "English",
         "Hindi",
+        "Baghlayani",
         "Kannada",
+        "Punjabi",
+        "Haryanvi",
+        "Malayalam",
+        "Dogri",
+        "Kangri"
+
     ]
 
 }
