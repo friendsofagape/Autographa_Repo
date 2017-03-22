@@ -11,5 +11,5 @@ https://github.com/friendsofagape/Autographa_Repo/tree/master/Bibles
 
 eg. each langauge sub folder has a package.JSON and that must contain metadata that is needed for the mobile app to parse and make available for download offline
 
-> Note: Bibles in this repo may not be the final released versions. Many of these Bibles are still under progressive revision cycles. Had you find a mistake, do let us know by email at theautographaproject@gmail.com and we will be glad to address the issues.
+> Note: Bibles in this repo may not be the final released versions. Many of these Bibles are still under progressive revision cycles. Had you find a mistake, do let us know by dropping an email at theautographaproject@gmail.com and we will be glad to address the issues.
 
