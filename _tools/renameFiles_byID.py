@@ -21,7 +21,7 @@ for file in files:
             f=codecs.open(file, mode='rb', encoding="utf-8")
             fc = f.read()
             f_id=re.search("\\\\id\s+(.{3})", fc, re.U)
-            os.rename(file, getBookNum(f_id.group(1)) + "_" + str(f_id.group(1)) + "MRVR.usfm")
+            os.rename(file, getBookNum(f_id.group(1)) + "_" + str(f_id.group(1)) + "TELR.usfm")
             f.close()
     except Exception as e:
         # pdb.set_trace()
