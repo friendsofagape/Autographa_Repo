@@ -6,6 +6,7 @@
     "versionName": "Unlocked Literal Bible",
     "source": "https://github.com/friendsofagape/Autographa_Repo/",
     "license": "CCSA",
-    "year": 2017
+    "year": 2017,
+    "available": "NT"
   }
 }
