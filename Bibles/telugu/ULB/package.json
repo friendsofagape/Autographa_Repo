@@ -1,10 +1,10 @@
 {
   "meta_data": {
-    "languageName": "XXX",
-    "languageCode": "XXX",
+    "languageName": "Telugu",
+    "languageCode": "TEL",
     "versionCode": "ULB",
     "versionName": "Unlocked Literal Bible",
-    "source": "XXX",
+    "source": "https://unfoldingword.org/",
     "license": "CCSA",
     "year": 2016,
     "available": "NT"
