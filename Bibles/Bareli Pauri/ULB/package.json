@@ -1,5 +1,5 @@
 {
-  "meta_data": {
+  "meta_data": [{
     "languageName": "Bareli Pauri",
     "languageCode": "BFB",
     "versionCode": "ULB",
@@ -8,5 +8,5 @@
     "license": "CCSA",
     "year": 2017,
     "available": "NT"
-  }
+  }]
 }
