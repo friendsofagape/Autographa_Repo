@@ -1,0 +1,12 @@
+{
+  "meta_data": {
+    "languageName": "Varhadi-Nagpuri",
+    "languageCode": "VAH",
+    "versionCode": "ULB",
+    "versionName": "Unlocked Literal Bible",
+    "source": "https://github.com/friendsofagape/Autographa_Repo/",
+    "license": "CCSA",
+    "year": 2017,
+    "available": "NT"
+  }
+}
