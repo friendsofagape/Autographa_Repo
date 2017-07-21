@@ -1,0 +1,12 @@
+{
+  "meta_data": {
+    "languageName": "English",
+    "languageCode": "ENG",
+    "versionCode": "ASV",
+    "versionName": "American Standard Version",
+    "source": "https://github.com/openenglishbible/usfm-bibles/tree/master/ASV",
+    "license": "Public Domain",
+    "year": 2005,
+    "available": "OT-NT"
+  }
+}
