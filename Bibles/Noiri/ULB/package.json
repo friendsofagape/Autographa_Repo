@@ -1,0 +1,12 @@
+{
+  "meta_data": {
+    "languageName": "Noiri",
+    "languageCode": "NOI",
+    "versionCode": "ULB",
+    "versionName": "Unlocked Literal Bible",
+    "source": "https://github.com/friendsofagape/Autographa_Repo/",
+    "license": "Community Draft Stage 4",
+    "year": 2017,
+    "available": "NT"
+  }
+}
