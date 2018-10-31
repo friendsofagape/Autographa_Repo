@@ -4,7 +4,8 @@
          "Ahirani",
          "Assamese", 
          "Baghlayani",
-         "Bareli-Pauri", 
+         "Bareli-Pauri",
+	 "Bengali", 
          "Bhadrawahi",
          "Bhatri",
          "Bhattiyali",  
@@ -41,6 +42,7 @@
          "Marathi",
          "Nahali",
          "Noiri",
+	 "Odiya",
          "Pahari-Mahasui",
          "Punjabi",
          "Rana-Tharu",
@@ -51,6 +53,7 @@
          "Surgujia",  
          "Tamil",
          "Telugu",
+	 "Urdu",
          "Varhadi-Nagpuri"  
 
     ]
